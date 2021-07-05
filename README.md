@@ -11,9 +11,9 @@ Instructions to this assignment can be found [here](#).
 - [ ] submit the repository link on Canvas
 
 ## Self-Evaluation:
-
+10
 how many points out of 20 do you deserve on this assignment:
 
 ## Self-Reflection:
-
+I forgot there was an assingment due. By the time I realized how much time I had there was no way I would get it done correctly on time. 
 ### How long it took me to finish this?
